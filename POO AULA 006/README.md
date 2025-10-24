@@ -89,11 +89,9 @@ Se tudo estiver correto, debita o valor da conta de origem e credita na conta de
 
 Exibe uma mensagem de sucesso ao final.
 
-_
-_
-_
-_
-_
+
+
+    
 UML do código:
 
 ![image alt](https://github.com/CaueSales9/POO-Programacao-Orientada-a-Objetos-/blob/22cb00958ce90fdc24d3599381c2d245aa2756e4/POO%20AULA%20006/uml%20de%20um%20banco%20e%20conta.png)
